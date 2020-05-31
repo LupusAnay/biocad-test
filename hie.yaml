@@ -1,1 +1,1 @@
-cradle: {cabal: {component: "lib:biocad-test-cabal"}}
+cradle: {cabal: {component: "lib:biocad-test"}}

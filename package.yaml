@@ -1,6 +1,6 @@
-name:                biocad-test-cabal
+name:                biocad-test
 version:             0.1.0.0
-github:              "lupusanay/biocad-test-cabal"
+github:              "lupusanay/biocad-test"
 license:             BSD3
 author:              "Ilya Kopeshtianski"
 maintainer:          "lupusanay@gmail.com"
